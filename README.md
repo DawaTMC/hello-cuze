@@ -1,2 +1,3 @@
 # hello-cuze
-Just another repository
+
+Hello world, i am cuze, who's is going to be your real world tech assitance 
